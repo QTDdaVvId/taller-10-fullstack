@@ -1,22 +1,22 @@
 <?php
 
 // DEFINICION DE DATOS DE ENTRADA
-const CONSTANTE = 5;
-$variable = 10;
+const FIRSTNUMBER = 5;
+$secondNumber = 10;
 
 // PROCESO
-$suma = CONSTANTE + $variable;
+$sum = FIRSTNUMBER + $secondNumber;
 
 // SALIDA
-echo "La suma de la constante y la variable es: $suma " . "\n";
+echo "La suma de la constante y la variable es: $sum " . "\n";
 
 // CAMBIO DE VARIABLE
-$variable = 7;
+$secondNumber = 7;
 
 // PROCESO
-$suma_nueva = CONSTANTE + $variable;
+$newSum = FIRSTNUMBER + $variable;
 
 // SALIDA
-echo "Después de cambiar el valor de la variable, la nueva suma es: $suma_nueva";
+echo "Después de cambiar el valor de la variable, la nueva suma es: $newSum";
 
 ?>
