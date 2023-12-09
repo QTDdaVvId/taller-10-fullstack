@@ -5,8 +5,10 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2>Punto 1: Consantes y variables</h2>
-<img src="./public/images/img-punto-1.PNG" alt="punto 1">
+<img src= "./public/images/img-punto-1.PNG" alt= "punto 1">
+
 <h2>Punto 2: Sumas de Constantes y Variables</h2>
+<img src= "./public/images/img-punto-2.PNG" alt= "punto 2">
 
 <h2>Punto 3: Sumas de dos números indicados por el usuario</h2>
 
