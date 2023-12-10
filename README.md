@@ -23,19 +23,32 @@
 <img src= "./public/images/img-punto-6.PNG" alt= "punto 6">
 
 <h2>Punto 7: Selección de operación aritmética</h2>
+<img src= "./public/images/img-punto-7.1.PNG" alt= "punto 7">
+<img src= "./public/images/img-punto-7.2.PNG" alt= "punto 7.1">
 
 <h2>Punto 8: Entrada a la bolera usando Switch</h2>
+<img src="./public/images/img-punto-8.PNG" alt= "punto 8">
 
 <h2>Punto 9: Tabla de multiplicar usando while</h2>
+<img src= "./public/images/img-punto-9.PNG" alt= "punto 9">
 
 <h2>Punto 10: Números pares usando while</h2>
+<img src= "./public/images/img-punto-10.PNG" alt= "punto 10">
 
 <h2>Punto 11: Números impares usando for</h2>
+<img src= "./public/images/img-punto-11.PNG" alt= "punto 11">
 
 <h2>Punto 12: Tabla de multiplicar usando for</h2>
+<img src= "./public/images/img-punto-12.PNG" alt= "punto 12">
 
 <h2>Punto 13: Suma de valores de un arreglo usando foreach</h2>
+<img src= "./public/images/img-punto-13.PNG" alt= "punto 13">
 
 <h2>Punto 14: Revision de contraseña</h2>
+<img src= "./public/images/img-punto-14.PNG" alt= "punto 14">
+<img src= "./public/images/img-punto-14.1.PNG" alt= "punto 14.1">
 
 <h2>Punto 15: Selección de operación aritmética usando funciones</h2>
+<img src= "./public/images/img-punto-15.PNG" alt= "punto 15">
+<img src="./public/images/img-punto-15.1.PNG" alt= "punto 15.1">
+
